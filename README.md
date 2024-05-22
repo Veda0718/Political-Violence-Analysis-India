@@ -15,3 +15,5 @@ This analysis explores patterns and clusters in incidents of political violence 
 
 ## Conclusion
 The analysis sheds light on the spatial dynamics of political violence in India, emphasizing the importance of nuanced approaches to address regional disparities and underlying factors. By uncovering patterns and clusters, policymakers can develop targeted interventions to promote peace and stability, contributing to more peaceful socio-political environments in the country.
+
+***For a detailed report, read the PDF***
